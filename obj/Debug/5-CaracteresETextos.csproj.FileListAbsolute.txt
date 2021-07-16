@@ -1,0 +1,14 @@
+D:\AprendendoCSharp\5-CaracterisETexto\bin\Debug\5-CaracterisETexto.exe.config
+D:\AprendendoCSharp\5-CaracterisETexto\bin\Debug\5-CaracterisETexto.exe
+D:\AprendendoCSharp\5-CaracterisETexto\bin\Debug\5-CaracterisETexto.pdb
+D:\AprendendoCSharp\5-CaracterisETexto\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\5-CaracterisETexto\obj\Debug\5-CaracterisETexto.exe
+D:\AprendendoCSharp\5-CaracterisETexto\obj\Debug\5-CaracterisETexto.pdb
+D:\AprendendoCSharp\5-CaracterisETexto\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache
+D:\ALURA\AprendendoCSharp\5-CaracterisETexto\bin\Debug\5-CaracterisETexto.exe.config
+D:\ALURA\AprendendoCSharp\5-CaracterisETexto\bin\Debug\5-CaracterisETexto.exe
+D:\ALURA\AprendendoCSharp\5-CaracterisETexto\bin\Debug\5-CaracterisETexto.pdb
+D:\ALURA\AprendendoCSharp\5-CaracterisETexto\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache
+D:\ALURA\AprendendoCSharp\5-CaracterisETexto\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\ALURA\AprendendoCSharp\5-CaracterisETexto\obj\Debug\5-CaracterisETexto.exe
+D:\ALURA\AprendendoCSharp\5-CaracterisETexto\obj\Debug\5-CaracterisETexto.pdb
